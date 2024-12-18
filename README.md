@@ -16,12 +16,12 @@ Open Power BI Desktop and choose "Get Data." Select your data source and follow 
 
 Dashboard Setup: Open the chocolate_sales_analytics.pbix file using Power BI Desktop.
 
-Usage 🎉
+Usage 🎉:
 
 Opening the Dashboard: Open the chocolate_sales_analytics.pbix file in Power BI Desktop to interact with the dashboard locally.
 Customization: Feel free to customize the dashboard to fit your preferences. Add new visuals, rearrange elements, or modify colors and formatting. 
 
-Screenshots 📸
+Screenshots 📸:
 
 For screenshot of Spotify Dashboard please click on - "dashboard.PNG file"
 
