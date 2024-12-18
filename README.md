@@ -13,6 +13,7 @@ Based on selected category,sales,boxes,shipment etc can be seen with the help of
 You need Power BI Desktop (for local use) to interact with the dashboard.
 
 Open Power BI Desktop and choose "Get Data." Select your data source and follow the prompts to load the data. 
+
 Dashboard Setup: Open the chocolate_sales_analytics.pbix file using Power BI Desktop.
 
 Usage 🎉
