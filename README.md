@@ -21,10 +21,6 @@ Usage 🎉:
 Opening the Dashboard: Open the chocolate_sales_analytics.pbix file in Power BI Desktop to interact with the dashboard locally.
 Customization: Feel free to customize the dashboard to fit your preferences. Add new visuals, rearrange elements, or modify colors and formatting. 
 
-Screenshots 📸:
-
-For screenshot of Spotify Dashboard please click on - "dashboard.PNG file"
-
 Contributing 🤝 Contributions are generally not applicable in this context, as the dashboard is tailored for individual use. However, feel free to fork the project and adapt it to your specific needs.
 
 Dashboard:
